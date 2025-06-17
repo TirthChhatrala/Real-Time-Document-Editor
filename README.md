@@ -1,10 +1,15 @@
 # 📄 Real-Time Collaborative Document Editor
 
 A modern real-time collaborative document editor built with:
-✅ **React.js** — Dynamic, responsive frontend
-✅ **Node.js + Express** — Backend server with Socket.IO for real-time updates
-✅ **MongoDB** — Document storage (string type field + save history)
-✅ **jsPDF** — Download your document as PDF
+
+✅ **React.js** — Dynamic, responsive frontend.
+
+✅ **Node.js + Express** — Backend server with Socket.IO for real-time updates.
+
+✅ **MongoDB** — Document storage (string type field + save history). 
+
+✅ **jsPDF** — Download your document as PDF.
+
 
 ---
 
@@ -31,8 +36,8 @@ A modern real-time collaborative document editor built with:
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/realtime-doc-editor.git
-cd realtime-doc-editor
+git clone https://github.com/TirthChhatrala/Real-Time-Document-Editor.git
+cd Real-Time-Document-Editor
 
 # Install frontend dependencies
 npm install
@@ -72,7 +77,7 @@ PORT = 5000
 ## 📁 Project Structure
 
 ```
-realtime-doc-editor/
+Real-Time-Document-Editor/
 ├── client/
 │   ├── src/
 │   │   ├── components/
